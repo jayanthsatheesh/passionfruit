@@ -1,0 +1,314 @@
+[
+  {
+    "id": "canon-eos-r7",
+    "name": "Canon EOS R7",
+    "category": "Photography",
+    "subcategory": "Digital Cameras",
+    "price": 2800,
+    "weeklyPrice": 2800,
+    "monthlyPrice": 8400,
+    "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "images": [
+      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+    ],
+    "description": "Professional mirrorless camera perfect for wildlife, sports, and action photography with fast autofocus and excellent image quality.",
+    "features": ["Photography", "Travel", "Portrait"],
+    "included": [
+      "Canon EOS R7 Camera Body",
+      "2x Rechargeable Batteries",
+      "Wall Charger & Cable",
+      "64GB High-Speed SD Card",
+      "Padded Camera Strap",
+      "Protective Travel Case"
+    ],
+    "specs": {
+      "Sensor": "32.5MP APS-C CMOS",
+      "ISO Range": "100-32000",
+      "Video": "4K UHD at 30fps",
+      "Battery Life": "660 shots",
+      "Weight": "612g (body only)",
+      "Dimensions": "132 × 90 × 92mm",
+      "Mount": "Canon RF-mount",
+      "Weather Sealing": "Yes"
+    },
+    "experienceLevel": "aspiring",
+    "tags": ["photography", "travel", "portrait", "mirrorless"],
+    "available": true,
+    "rating": 4.8,
+    "reviewCount": 124,
+    "featured": true
+  },
+  {
+    "id": "sony-a7iii",
+    "name": "Sony A7 III",
+    "category": "Photography",
+    "subcategory": "Digital Cameras",
+    "price": 4200,
+    "weeklyPrice": 4200,
+    "monthlyPrice": 12600,
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+      "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+    ],
+    "description": "Full-frame mirrorless camera with excellent low-light performance and professional video capabilities.",
+    "features": ["Professional Photography", "Video", "Low Light"],
+    "included": [
+      "Sony A7 III Camera Body",
+      "2x Rechargeable Batteries",
+      "Wall Charger & Cable",
+      "64GB High-Speed SD Card",
+      "Padded Camera Strap",
+      "Protective Travel Case"
+    ],
+    "specs": {
+      "Sensor": "24.2MP Full-Frame CMOS",
+      "ISO Range": "100-51200",
+      "Video": "4K UHD at 30fps",
+      "Battery Life": "710 shots",
+      "Weight": "650g (body only)",
+      "Dimensions": "127 × 96 × 74mm",
+      "Mount": "Sony E-mount",
+      "Weather Sealing": "Yes"
+    },
+    "experienceLevel": "pro",
+    "tags": ["photography", "video", "professional", "full-frame"],
+    "available": true,
+    "rating": 4.9,
+    "reviewCount": 289,
+    "featured": true
+  },
+  {
+    "id": "dji-mini-2-se",
+    "name": "DJI Mini 2 SE",
+    "category": "Photography",
+    "subcategory": "Drones",
+    "price": 1800,
+    "weeklyPrice": 1800,
+    "monthlyPrice": 5400,
+    "image": "https://images.unsplash.com/photo-1508614999368-9260051292e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "images": [
+      "https://images.unsplash.com/photo-1508614999368-9260051292e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+    ],
+    "description": "Compact and lightweight drone perfect for aerial photography and content creation with excellent stability.",
+    "features": ["Aerial Photography", "Content Creation", "Travel"],
+    "included": [
+      "DJI Mini 2 SE Drone",
+      "Remote Controller",
+      "3x Intelligent Flight Batteries",
+      "Propeller Guards",
+      "64GB MicroSD Card",
+      "Carrying Case"
+    ],
+    "specs": {
+      "Camera": "12MP, 2.7K Video",
+      "Flight Time": "31 minutes",
+      "Transmission Range": "10 km",
+      "Weight": "249g",
+      "Max Speed": "16 m/s",
+      "Wind Resistance": "Level 5",
+      "Operating Temperature": "-10°C to 40°C",
+      "GPS": "GPS + GLONASS"
+    },
+    "experienceLevel": "explorer",
+    "tags": ["drone", "aerial", "photography", "content creation"],
+    "available": true,
+    "rating": 4.7,
+    "reviewCount": 156,
+    "featured": true
+  },
+  {
+    "id": "acoustic-guitar",
+    "name": "Professional Acoustic Guitar",
+    "category": "Music",
+    "subcategory": "Musical Instruments",
+    "price": 1200,
+    "weeklyPrice": 1200,
+    "monthlyPrice": 3600,
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "images": [
+      "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+    ],
+    "description": "High-quality acoustic guitar with rich tone and excellent playability, perfect for recording and live performances.",
+    "features": ["Music Recording", "Live Performance", "Practice"],
+    "included": [
+      "Acoustic Guitar",
+      "Guitar Case",
+      "Guitar Stand",
+      "Extra Strings Set",
+      "Guitar Picks (5 pieces)",
+      "Guitar Tuner"
+    ],
+    "specs": {
+      "Body": "Solid Spruce Top, Mahogany Back",
+      "Neck": "Mahogany",
+      "Fretboard": "Rosewood",
+      "Scale Length": "25.5 inches",
+      "Nut Width": "1.69 inches",
+      "Finish": "Natural Gloss",
+      "Strings": "Phosphor Bronze",
+      "Action": "Low"
+    },
+    "experienceLevel": "aspiring",
+    "tags": ["guitar", "music", "acoustic", "recording"],
+    "available": true,
+    "rating": 4.6,
+    "reviewCount": 89,
+    "featured": true
+  },
+  {
+    "id": "gaming-console",
+    "name": "Gaming Console Pro",
+    "category": "Tech",
+    "subcategory": "Gaming Consoles",
+    "price": 2400,
+    "weeklyPrice": 2400,
+    "monthlyPrice": 7200,
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "images": [
+      "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+    ],
+    "description": "Latest generation gaming console with 4K gaming capabilities and extensive game library access.",
+    "features": ["Gaming", "Entertainment", "4K Graphics"],
+    "included": [
+      "Gaming Console",
+      "2x Wireless Controllers",
+      "HDMI Cable",
+      "Power Cable",
+      "USB Charging Cable",
+      "Game Library Access"
+    ],
+    "specs": {
+      "CPU": "8-core AMD Zen 2",
+      "GPU": "10.28 TFLOPs RDNA 2",
+      "Memory": "16GB GDDR6",
+      "Storage": "1TB NVMe SSD",
+      "Resolution": "Up to 4K 120fps",
+      "Audio": "3D Spatial Audio",
+      "Connectivity": "Wi-Fi 6, Bluetooth 5.1",
+      "Ports": "3x USB, HDMI, Ethernet"
+    },
+    "experienceLevel": "explorer",
+    "tags": ["gaming", "console", "entertainment", "4k"],
+    "available": true,
+    "rating": 4.8,
+    "reviewCount": 234,
+    "featured": true
+  },
+  {
+    "id": "camping-tent",
+    "name": "Pro Camping Tent",
+    "category": "Adventure",
+    "subcategory": "Camping Equipment",
+    "price": 800,
+    "weeklyPrice": 800,
+    "monthlyPrice": 2400,
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "images": [
+      "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+    ],
+    "description": "Professional-grade camping tent with excellent weather protection and spacious interior for outdoor adventures.",
+    "features": ["Camping", "Outdoor Adventures", "Weather Protection"],
+    "included": [
+      "4-Person Tent",
+      "Rainfly Cover",
+      "Ground Tarp",
+      "Tent Stakes (12 pieces)",
+      "Guy Lines",
+      "Carrying Bag"
+    ],
+    "specs": {
+      "Capacity": "4 Person",
+      "Seasons": "3 Season",
+      "Floor Area": "55 sq ft",
+      "Peak Height": "4 ft 6 in",
+      "Packed Weight": "8.5 lbs",
+      "Packed Size": "24 x 8 inches",
+      "Materials": "Ripstop Nylon, Aluminum Poles",
+      "Waterproof Rating": "3000mm"
+    },
+    "experienceLevel": "explorer",
+    "tags": ["camping", "tent", "outdoor", "adventure"],
+    "available": true,
+    "rating": 4.5,
+    "reviewCount": 67,
+    "featured": true
+  },
+  {
+    "id": "dj-controller",
+    "name": "Professional DJ Controller",
+    "category": "Music",
+    "subcategory": "DJ & Studio Gear",
+    "price": 1500,
+    "weeklyPrice": 1500,
+    "monthlyPrice": 4500,
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "images": [
+      "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+    ],
+    "description": "Professional-grade DJ controller with touch-sensitive jog wheels and comprehensive mixing capabilities.",
+    "features": ["DJing", "Live Performance", "Music Production"],
+    "included": [
+      "DJ Controller",
+      "USB Cable",
+      "Power Adapter",
+      "Software License",
+      "Carrying Case",
+      "Quick Start Guide"
+    ],
+    "specs": {
+      "Channels": "4 Channel",
+      "Jog Wheels": "Touch Sensitive",
+      "Audio Interface": "24-bit/48kHz",
+      "Inputs": "2x Mic, 2x Line",
+      "Outputs": "Master, Booth, Headphone",
+      "Effects": "Built-in FX",
+      "Software": "Serato DJ Lite",
+      "Connectivity": "USB, MIDI"
+    },
+    "experienceLevel": "aspiring",
+    "tags": ["dj", "music", "controller", "mixing"],
+    "available": true,
+    "rating": 4.7,
+    "reviewCount": 93
+  },
+  {
+    "id": "vr-headset",
+    "name": "VR Gaming Headset",
+    "category": "Tech",
+    "subcategory": "VR Headsets",
+    "price": 2000,
+    "weeklyPrice": 2000,
+    "monthlyPrice": 6000,
+    "image": "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600",
+    "images": [
+      "https://images.unsplash.com/photo-1617802690992-15d93263d3a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600"
+    ],
+    "description": "Immersive VR headset with high-resolution displays and precise tracking for the ultimate virtual reality experience.",
+    "features": ["VR Gaming", "Virtual Experiences", "Entertainment"],
+    "included": [
+      "VR Headset",
+      "2x Hand Controllers",
+      "Base Stations (2x)",
+      "Charging Cables",
+      "Face Cushion",
+      "Setup Guide"
+    ],
+    "specs": {
+      "Display": "2160 x 2160 per eye",
+      "Refresh Rate": "90Hz",
+      "Field of View": "110 degrees",
+      "Tracking": "Room Scale 6DOF",
+      "Audio": "Integrated Speakers",
+      "Connectivity": "USB-C, DisplayPort",
+      "Platform": "PC VR",
+      "Play Area": "Up to 10m x 10m"
+    },
+    "experienceLevel": "explorer",
+    "tags": ["vr", "gaming", "virtual reality", "immersive"],
+    "available": true,
+    "rating": 4.6,
+    "reviewCount": 178
+  }
+]
