@@ -1,6 +1,6 @@
 # PassionFruit - Hobby Gear Rental Platform
 
-Own the moment, not the gear. Rent high-quality hobby equipment, hassle-free.
+Own the moment, not the gear. Rent high-quality hobby equipment, hassle-free. 
 
 ## 🚀 Features
 
